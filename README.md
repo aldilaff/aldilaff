@@ -10,9 +10,11 @@ I’m a software engineer based in Austin, TX and currently working as a Fullsta
 <div dir="rtl" markdown="1">
 
 
-### أهلا وسهلًا
+###  👋 أهلا وسهلًا
 
 انا مهندس برمجيات شغال في أوستن، تكساس وأعمل كـ full stack engineer باستعمال جافا وجافاسكربت.
+
+موقعي الشخصي: http://faisal.software 
 
 </div>
 
